@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"798c7317dda79600","type":"text","text":"生理学概述","x":57,"y":-166,"width":250,"height":60},
+		{"id":"2ae3ebafbde0d670","type":"text","text":"生命活动的基本特征","x":75,"y":87,"width":250,"height":60},
+		{"id":"0e4505fc7eb0ed39","type":"text","text":"生理学绪论","x":-260,"y":-80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2f0df29c89509877","fromNode":"0e4505fc7eb0ed39","fromSide":"right","toNode":"798c7317dda79600","toSide":"left"},
+		{"id":"882b1171123361f0","fromNode":"0e4505fc7eb0ed39","fromSide":"right","toNode":"2ae3ebafbde0d670","toSide":"left"}
+	]
+}
