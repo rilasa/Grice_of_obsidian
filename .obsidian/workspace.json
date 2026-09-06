@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "320e3893a2d40b13",
+        "id": "4fe01bfce4e91136",
         "type": "tabs",
         "children": [
           {
-            "id": "84c768d0669b877f",
+            "id": "02dcab8ea953b87a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "生理学/生理学绪论.canvas",
-                "viewState": {
-                  "x": 32.5,
-                  "y": -9.5,
-                  "zoom": 0
-                }
+                "file": "医学免疫学/医学免疫学概论.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "生理学绪论"
+              "icon": "lucide-file",
+              "title": "医学免疫学概论"
             }
           }
         ]
@@ -86,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d568f251d1cb2cd9",
@@ -203,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c768d0669b877f",
+  "active": "02dcab8ea953b87a",
   "lastOpenFiles": [
-    "生理学/生理学绪论.md",
-    "生理学/生理学绪论.canvas",
-    "医学免疫学/医学免疫学概论.md",
     "医学免疫学/医学免疫学概论.canvas",
+    "医学免疫学/医学免疫学概论.md",
+    "生理学/生理学绪论.canvas",
+    "生理学/生理学绪论.md",
     "詹韦免疫生物学(原书第十版).pdf",
     "missing_semester/Introduction of the Shell.md",
     "生理学",
