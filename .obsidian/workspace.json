@@ -11,16 +11,13 @@
             "id": "ea25c043d63c5b82",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
-                "viewState": {
-                  "x": 1121.2979607261043,
-                  "y": 11.706238243931253,
-                  "zoom": -0.8347634904380616
-                }
+                "file": "医学免疫学/固有免疫系统的组成(Unfinished).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "固有免疫系统的组成(Unfinished)"
             }
           }
@@ -188,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +201,10 @@
   },
   "active": "ea25c043d63c5b82",
   "lastOpenFiles": [
-    "医学免疫学/固有免疫系统的组成(Unfinished).md",
+    "Janeways Immunobiology (Tenth Edition) (Murphy, Kenneth M., Weaver, Casey, Berg etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "詹韦免疫生物学(原书第十版).pdf",
     "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
+    "医学免疫学/固有免疫系统的组成(Unfinished).md",
     "医学免疫学/未命名.base",
     "医学免疫学/未命名 1.base",
     "医学免疫学/医学免疫学概论.canvas",
@@ -215,7 +214,6 @@
     "医学免疫学/医学免疫学概论.md",
     "生理学/生理学绪论.canvas",
     "生理学概述.md",
-    "詹韦免疫生物学(原书第十版).pdf",
     "医学免疫学概述.md",
     "生理学",
     "中枢免疫器官.md",
