@@ -13,7 +13,6 @@
 		{"id":"9a89e5d2c502a5a5","type":"text","text":"记忆性        ","x":962,"y":990,"width":250,"height":60},
 		{"id":"a569bf594f4a53f6","type":"text","text":"动态性","x":962,"y":900,"width":250,"height":60},
 		{"id":"dbf576ad223a62b9","type":"text","text":"系统性","x":962,"y":820,"width":250,"height":60},
-		{"id":"3173a9f69e55b084","type":"text","text":"免疫应答的特点","x":580,"y":900,"width":250,"height":60},
 		{"id":"40e9f0ce2321fcf1","type":"text","text":"免疫系统的基本功能","x":580,"y":589,"width":250,"height":64,"color":"1"},
 		{"id":"4f662bc8d7756144","type":"text","text":"免疫系统的功能","x":220,"y":593,"width":250,"height":60},
 		{"id":"7efbdd1f21b21ea0","type":"text","text":"免疫学概论","x":-40,"y":266,"width":143,"height":50,"color":"4"},
@@ -31,7 +30,8 @@
 		{"id":"ca925888c6edc5a9","type":"text","text":" 固有免疫细胞","x":-1172,"y":201,"width":250,"height":60},
 		{"id":"2ad0797ab521d42e","type":"text","text":"膜型分子","x":-1172,"y":479,"width":250,"height":60},
 		{"id":"1d971cff0b9ca092","type":"text","text":"免疫分子","x":-795,"y":539,"width":250,"height":60},
-		{"id":"9cd2c01985d36315","type":"text","text":"分泌型分子","x":-1172,"y":593,"width":250,"height":60}
+		{"id":"9cd2c01985d36315","type":"text","text":"分泌型分子","x":-1172,"y":593,"width":250,"height":60},
+		{"id":"3173a9f69e55b084","type":"text","text":"免疫应答的特点","x":580,"y":900,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"1e2d168b9267dd7a","fromNode":"7efbdd1f21b21ea0","fromSide":"right","toNode":"78bd187a87e6dd66","toSide":"left"},
