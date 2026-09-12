@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ee05493ec3e7af",
+        "id": "9d38588c4e232d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea25c043d63c5b82",
+            "id": "0f8af41b95b72f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医学免疫学/固有免疫系统的组成(Unfinished).md",
+                "file": "医学免疫学/补体系统.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "固有免疫系统的组成(Unfinished)"
+              "title": "补体系统"
+            }
+          },
+          {
+            "id": "bc34e6a949f79728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "医学免疫学/经典激活途径.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经典激活途径"
             }
           }
         ]
@@ -41,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d568f251d1cb2cd9",
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "医学免疫学/补体系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "反向链接"
             }
           },
           {
@@ -118,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "医学免疫学/补体系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "出链"
             }
           },
           {
@@ -138,7 +153,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -152,7 +167,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -161,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "医学免疫学/补体系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "大纲"
             }
           },
           {
@@ -179,13 +194,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "244585a28fed55f4",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 297.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,36 +221,66 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-importer:导入笔记": false
     }
   },
-  "active": "ea25c043d63c5b82",
+  "active": "6d9e37856f78e567",
   "lastOpenFiles": [
-    "Janeways Immunobiology (Tenth Edition) (Murphy, Kenneth M., Weaver, Casey, Berg etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "詹韦免疫生物学(原书第十版).pdf",
-    "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
+    "医学免疫学/经典激活途径.md",
+    "医学免疫学/补体系统.md",
+    "医学免疫学/替代补体途径.md",
     "医学免疫学/固有免疫系统的组成(Unfinished).md",
-    "医学免疫学/未命名.base",
-    "医学免疫学/未命名 1.base",
-    "医学免疫学/医学免疫学概论.canvas",
-    "missing_semester/Introduction of the Shell.md",
-    "README.md",
+    "医学免疫学/超抗原.md",
     "生理学/生理学绪论.md",
+    "民事诉讼法.md",
     "医学免疫学/医学免疫学概论.md",
+    "README.md",
+    "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
+    "Janeway immunobiology/janeway/Janeways Immunobiology1.pdf",
+    "医学免疫学/补体.md",
+    "MacBook air M2 购买.md",
     "生理学/生理学绪论.canvas",
-    "生理学概述.md",
-    "医学免疫学概述.md",
-    "生理学",
-    "中枢免疫器官.md",
-    "免疫学概论.canvas",
-    "未命名.md",
-    "医学免疫学/未命名思维导图.md",
-    "missing_semester",
-    "attachments",
+    "Janeway immunobiology/smallpox.md",
+    "Janeway immunobiology/reading notes of janeway's immunobiology.md",
+    "医学免疫学/医学免疫学概论.canvas",
+    "attachments/michaelis_menten.png",
+    "attachments/lineweaver_burk.png",
+    "attachments/image 3.png",
+    "attachments/image 2.png",
+    "attachments/image.png",
+    "attachments/f98c892b25c05934dd3cb9b0f7c60092.jpg",
+    "attachments/e6b02d1a3a70cbda8b2601ad5d754b03.jpg",
+    "attachments/a03c03b7d9cba750a8fc8d7d4a2314ae.png",
+    "attachments/酶浓度对酶促反应速率的影响.png",
+    "Notion/百家讲坛/百家讲坛.md",
+    "Notion/百家讲坛/秦始皇——荆轲刺秦王.md",
+    "Notion/Janeway’s immunobiology.md",
+    "Notion/HOW TO INVENT EVERYTHING.md",
+    "Notion/NLTK学习进程.md",
+    "Notion/Notebook/Notebook.md",
+    "Notion/Notebook/ANYONE can learn a second language in 6 MONTHS.md",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/蛋白质二级结构的影响.base",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/Untitled.md",
+    "Notion/Notebook",
+    "attachments/image 1.png",
+    "Notion/六级备考.md",
+    "Notion/第一篇｜生物分子的结构与功能/第一篇｜生物分子的结构与功能.md",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/α-helix.md",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/β-pleated sheet.md",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/β-turn.md",
+    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响",
+    "Notion/第一篇｜生物分子的结构与功能",
+    "Notion/百家讲坛",
+    "Notion",
     "未命名.base",
-    "未命名 1.base",
-    "医学免疫学",
-    "Welcome.md",
-    "create a link.md"
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Janeway immunobiology/Janeways Immunobiolog.pdf",
+    "Janeway immunobiology/janeway",
+    "免疫学概论.canvas"
   ]
 }

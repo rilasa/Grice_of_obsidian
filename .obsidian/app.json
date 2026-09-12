@@ -2,5 +2,7 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

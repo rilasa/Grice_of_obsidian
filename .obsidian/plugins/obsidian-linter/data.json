@@ -273,7 +273,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "suppressMessageWhenNoChange": false,
@@ -287,8 +287,22 @@
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [],
-  "customRegexes": [],
+  "lintCommands": [
+    {
+      "id": "",
+      "name": "",
+      "enabled": true
+    }
+  ],
+  "customRegexes": [
+    {
+      "label": "transform",
+      "find": "\\[\\[([^@]+)@annote#([^|]+)\\|([^📌\\]]+)\\]\\]",
+      "replace": "[[$1@annote#$2|📌]]$3",
+      "flags": "gm",
+      "enabled": true
+    }
+  ],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",
