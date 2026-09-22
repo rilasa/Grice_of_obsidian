@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "10ee1f4390c8b7c3",
+        "id": "d1c0a44ad38c49f0",
         "type": "tabs",
         "children": [
           {
-            "id": "85b106635dc5a2ab",
+            "id": "408f48faf5a87d6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "医学免疫学/MAC途径.md",
-                "mode": "preview",
-                "source": false
+                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 796,
+                "zoom": 1.2426470588235294
               },
-              "icon": "lucide-file",
-              "title": "MAC途径"
+              "icon": "lucide-file-text",
+              "title": "Pocket Companion to Guyton and - John E. Hall, PhD_部分1"
             }
           }
         ]
@@ -55,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Janeway immunobiology/janeway/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医学免疫学/MAC途径.md",
+                "file": "医学免疫学/损伤相关分子模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医学免疫学/固有免疫系统的组成(Unfinished).md",
+                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "医学免疫学/补体系统.md"
+                "file": "医学免疫学/病原体相关分子模式.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -225,98 +227,57 @@
       "obsidian-importer:导入笔记": false
     }
   },
-  "floating": {
-    "id": "eba021b51a7b6b8a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b0cfed3219dca73b",
-        "type": "window",
-        "children": [
-          {
-            "id": "2a9c1a702cad96ca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "180b4aa539a36a46",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分1.pdf",
-                    "page": 81,
-                    "left": -8,
-                    "top": 556,
-                    "zoom": 2.08516721655165
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "詹韦免疫生物学(原书第十版)_部分1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 437,
-        "y": 20,
-        "width": 832,
-        "height": 979,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "85b106635dc5a2ab",
+  "active": "408f48faf5a87d6d",
   "lastOpenFiles": [
-    "医学免疫学/肿瘤坏死因子.md",
-    "医学免疫学/医学免疫学概论.md",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分4.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分3.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分2.pdf",
+    "Pocket Companion to Guyton and - John E. Hall, PhD.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分9.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分8.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分7.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分6.pdf",
+    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分5.pdf",
+    "Guyton",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch002_3-9_B978044311102000001X.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch001_1-1_B9780443111020000872.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch036_249-260_B9780443111020000318.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Contents.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch029_189-189_B9780443111020000914.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch013_Extended_Fig_10_1.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch005_31-31_B9780443111020000884.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch003_Extended_Fig_2_1.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch003_10-20_B9780443111020000021.md",
+    "Guyton_Obsidian/OEBPS/images/9780443113536_FC.jpg",
+    "未命名.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Title_page.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Index_685-750_B9780443111020001075_a.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Preface_5-6_B978044311102000104X.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Index_685-750_B9780443111020001075.md",
+    "Guyton_Obsidian/OEBPS/xhtml/IBC__B9780443111020001063.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Cover.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Copyright_iv_B9780443111020001038.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch100_677-683_B9780443111020000859.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch100_Extended_Fig_85_1.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch099_675-675_B9780443111020001014.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch098_670-674_B9780443111020000847.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch097_Extended_Fig_83_1.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch097_662-669_B9780443111020000835.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch096_Extended_Fig_82_1.md",
+    "Guyton_Obsidian/OEBPS/xhtml/Ch095_Extended_Fig_81_1.md",
+    "Guyton_Obsidian/OEBPS/images/T001063tabt0010_1.png",
+    "Guyton_Obsidian/OEBPS/images/T001063tabt0010.png",
+    "Guyton_Obsidian/OEBPS/images/T000859tabt0020.png",
+    "Guyton_Obsidian/OEBPS/images/T00063Xtabt0010.png",
+    "Guyton_Obsidian/OEBPS/images/T000446tabt0010.png",
+    "Guyton_Obsidian/OEBPS/images/T000409tabt0015.png",
+    "Guyton_Obsidian/OEBPS/images/T000409tabt0010.png",
+    "Guyton_Obsidian/OEBPS/images/T000318tabt0010.png",
+    "Guyton_Obsidian/OEBPS/images/T000306tabt0010.png",
     "医学免疫学/医学免疫学概论.canvas",
-    "医学免疫学/细胞因子（cytokine,CK）.md",
-    "医学免疫学/替代补体途径.md",
-    "医学免疫学/受体分子.md",
-    "医学免疫学/生长因子.md",
-    "医学免疫学/趋化因子.md",
-    "医学免疫学/趋化和活化相关的细胞因子受体.md",
-    "医学免疫学/其他固有免疫分子.md",
-    "医学免疫学/凝集素聚集途径.md",
-    "医学免疫学/模式识别受体（PRR）.md",
-    "医学免疫学/经典激活途径.md",
-    "医学免疫学/集落刺激因子.md",
-    "医学免疫学/固有免疫系统的组成.md",
-    "医学免疫学/干扰素.md",
-    "医学免疫学/调理性受体.md",
-    "医学免疫学/超抗原.md",
-    "医学免疫学/补体系统（complement system）.md",
-    "医学免疫学/白细胞介素.md",
-    "attachments/Pasted image 20260917222423.png",
     "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
-    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分1.pdf",
-    "Janeway immunobiology/reading notes of janeway's immunobiology.md",
-    "医学免疫学/线程@annote.md",
-    "attachments/Pasted image 20260917201632.png",
-    "attachments/Pasted image 20260916181921.png",
-    "attachments/Pasted image 20260916174509.png",
-    "医学免疫学/MAC途径.md",
-    "MacBook air M2 购买.md",
-    "law/民事诉讼法.md",
-    "Notion/Notebook/Notebook.md",
-    "Notion/六级备考.md",
-    "未命名",
     "生理学/生理学绪论.canvas",
-    "attachments/Pasted image 20260914203041.png",
-    "law",
-    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分4.pdf",
-    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分3.pdf",
-    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分2.pdf",
-    "Janeway immunobiology/janeway/Janeways Immunobiology1.pdf",
-    "attachments/image 2.png",
-    "attachments/lineweaver_burk.png",
-    "attachments/michaelis_menten.png",
-    "attachments/image 3.png",
-    "attachments/image 1.png",
-    "attachments 1",
-    "Notion/第一篇｜生物分子的结构与功能/蛋白质二级结构的影响/蛋白质二级结构的影响.base",
-    "Notion/Notebook",
     "未命名.canvas",
     "未命名 1.canvas",
     "免疫学概论.canvas"

@@ -1,0 +1,9 @@
+{
+  "id": "epub-reading-importer",
+  "name": "EPUB Transfer to Markdown",
+  "version": "0.1.17",
+  "minAppVersion": "1.5.0",
+  "description": "Transfer EPUB files into chapter-based Markdown notes.",
+  "author": "Skye",
+  "isDesktopOnly": true
+}
