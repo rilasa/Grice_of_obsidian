@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c0a44ad38c49f0",
+        "id": "0658729a004956de",
         "type": "tabs",
         "children": [
           {
-            "id": "408f48faf5a87d6d",
+            "id": "f0e1bfe1a9ff5f18",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 796,
-                "zoom": 1.2426470588235294
-              },
-              "icon": "lucide-file-text",
-              "title": "Pocket Companion to Guyton and - John E. Hall, PhD_部分1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -101,8 +95,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医学免疫学/损伤相关分子模式.md",
-                "collapseAll": false,
+                "file": "Janeway immunobiology/reading notes of janeway's immunobiology.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -163,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+                "file": "Janeway immunobiology/reading notes of janeway's immunobiology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,9 +221,30 @@
       "obsidian-importer:导入笔记": false
     }
   },
-  "active": "408f48faf5a87d6d",
+  "active": "f0e1bfe1a9ff5f18",
   "lastOpenFiles": [
+    "Janeway immunobiology/reading notes of janeway's immunobiology.md",
+    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分1.pdf",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+    "医学免疫学/补体系统（complement system）.md",
+    "医学免疫学/Content.md",
+    "医学免疫学/固有免疫应答.md",
+    "医学免疫学/肿瘤坏死因子.md",
+    "医学免疫学/替代补体途径.md",
+    "attachments/Pasted image 20260922165928.png",
+    "attachments/Pasted image 20260922165713.png",
+    "医学免疫学/MAC途径.md",
+    "books/医学伦理/part0003.html.md",
+    "books/医学伦理/Contents.md",
+    "books/医学伦理/part0002.html.md",
+    "books/医学伦理/序言.md",
+    "books/医学伦理/第二章 安乐死：有益的医学实践还是谋杀？.md",
+    "read/law/医事法/医事法.md",
+    "read/law/医事法/第二章 医事法的实施.md",
+    "read/law/医事法/第三章 生命诞生之前.md",
+    "read/law/医事法/第一章 起源与变迁.md",
+    "README.md",
+    "books/医学伦理/医学伦理.md",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分4.pdf",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分3.pdf",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分2.pdf",
@@ -238,8 +253,6 @@
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分8.pdf",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分7.pdf",
     "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分6.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分5.pdf",
-    "Guyton",
     "Guyton_Obsidian/OEBPS/xhtml/Ch002_3-9_B978044311102000001X.md",
     "Guyton_Obsidian/OEBPS/xhtml/Ch001_1-1_B9780443111020000872.md",
     "Guyton_Obsidian/OEBPS/xhtml/Ch036_249-260_B9780443111020000318.md",
@@ -247,25 +260,7 @@
     "Guyton_Obsidian/OEBPS/xhtml/Ch029_189-189_B9780443111020000914.md",
     "Guyton_Obsidian/OEBPS/xhtml/Ch013_Extended_Fig_10_1.md",
     "Guyton_Obsidian/OEBPS/xhtml/Ch005_31-31_B9780443111020000884.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch003_Extended_Fig_2_1.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch003_10-20_B9780443111020000021.md",
     "Guyton_Obsidian/OEBPS/images/9780443113536_FC.jpg",
-    "未命名.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Title_page.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Index_685-750_B9780443111020001075_a.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Preface_5-6_B978044311102000104X.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Index_685-750_B9780443111020001075.md",
-    "Guyton_Obsidian/OEBPS/xhtml/IBC__B9780443111020001063.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Cover.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Copyright_iv_B9780443111020001038.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch100_677-683_B9780443111020000859.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch100_Extended_Fig_85_1.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch099_675-675_B9780443111020001014.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch098_670-674_B9780443111020000847.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch097_Extended_Fig_83_1.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch097_662-669_B9780443111020000835.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch096_Extended_Fig_82_1.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch095_Extended_Fig_81_1.md",
     "Guyton_Obsidian/OEBPS/images/T001063tabt0010_1.png",
     "Guyton_Obsidian/OEBPS/images/T001063tabt0010.png",
     "Guyton_Obsidian/OEBPS/images/T000859tabt0020.png",
@@ -273,8 +268,6 @@
     "Guyton_Obsidian/OEBPS/images/T000446tabt0010.png",
     "Guyton_Obsidian/OEBPS/images/T000409tabt0015.png",
     "Guyton_Obsidian/OEBPS/images/T000409tabt0010.png",
-    "Guyton_Obsidian/OEBPS/images/T000318tabt0010.png",
-    "Guyton_Obsidian/OEBPS/images/T000306tabt0010.png",
     "医学免疫学/医学免疫学概论.canvas",
     "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
     "生理学/生理学绪论.canvas",
