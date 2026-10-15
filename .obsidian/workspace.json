@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0658729a004956de",
+        "id": "4afd1b399edd5f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e1bfe1a9ff5f18",
+            "id": "5d8522839d4b6ee6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Guyton/读书笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "读书笔记"
             }
           }
         ]
@@ -95,14 +99,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Janeway immunobiology/reading notes of janeway's immunobiology.md",
+                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "反向链接"
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医学免疫学/补体系统.md",
+                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Janeway immunobiology/reading notes of janeway's immunobiology.md",
+                "file": "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "医学免疫学/病原体相关分子模式.md"
+                "file": "生理学/细胞的基本功能.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -218,59 +222,136 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:导入笔记": false
+      "obsidian-importer:导入笔记": false,
+      "pdf-toggle-dark-mode:PDF appearance: Light (click for Dark)": false
     }
   },
-  "active": "f0e1bfe1a9ff5f18",
+  "floating": {
+    "id": "f6f8aef51f254a0a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b7ad663e8208673c",
+        "type": "window",
+        "children": [
+          {
+            "id": "99fba5115207a142",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24b8a83b81d85094",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Guyton/15th/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+                    "page": 180,
+                    "left": -8,
+                    "top": 797,
+                    "zoom": 2.028186274509804
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Pocket Companion to Guyton and - John E. Hall, PhD_部分1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 109,
+        "width": 1024,
+        "height": 802,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "370e6b4ec7e9d810",
+        "type": "window",
+        "children": [
+          {
+            "id": "d95af7853912899b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e173c671ddbb052",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Guyton/Guyton_15th/Guyton_部分1.pdf",
+                    "page": 131,
+                    "left": -8,
+                    "top": 474,
+                    "zoom": 2.028186274509804
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Guyton_部分1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 157,
+        "width": 1024,
+        "height": 802,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5d8522839d4b6ee6",
   "lastOpenFiles": [
-    "Janeway immunobiology/reading notes of janeway's immunobiology.md",
-    "Janeway immunobiology/janeway/詹韦免疫生物学(原书第十版)_部分1.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
-    "医学免疫学/补体系统（complement system）.md",
-    "医学免疫学/Content.md",
+    "生理学/atrial pressure waves.md",
+    "Guyton/15th/Pocket Companion to Guyton and - John E. Hall, PhD_部分1.pdf",
+    "Guyton/Guyton_15th/Guyton_部分1.pdf",
+    "生理学/Content.md",
+    "生理学/Electrocardiagram.md",
+    "生理学/G蛋白耦联受体街道的信号转导.md",
+    "生理学/Phases of Action Potential in Cardiac Ventricular Muscle.md",
+    "attachments/Pasted image 20261015213525.png",
+    "生理学/主动转运（active transport）.md",
+    "生理学/易化扩散（facilitated diffusion）.md",
+    "生理学/细胞的信号转导.md",
+    "生理学/细胞的基本功能.md",
+    "生理学/稳态.md",
+    "生理学/生理学绪论.md",
+    "生理学/生理学绪论.canvas",
+    "生理学/膜泡运输.md",
+    "生理学/酶联型受体介导的信号转导.md",
+    "生理学/离子通道介导的信号转导.md",
+    "生理学/单纯扩散（simple diffusion）.md",
+    "生理学/比较cardica muscle and skeletal muscle.md",
+    "attachments/Pasted image 20261015211830.png",
+    "attachments/Pasted image 20261015204051.png",
+    "医学免疫学/趋化因子.md",
+    "医学免疫学/经典激活途径.md",
+    "医学免疫学/调理性受体.md",
+    "医学免疫学/固有免疫系统的组成.md",
+    "医学免疫学/干扰素.md",
+    "医学免疫学/集落刺激因子.md",
     "医学免疫学/固有免疫应答.md",
-    "医学免疫学/肿瘤坏死因子.md",
-    "医学免疫学/替代补体途径.md",
-    "attachments/Pasted image 20260922165928.png",
-    "attachments/Pasted image 20260922165713.png",
-    "医学免疫学/MAC途径.md",
-    "books/医学伦理/part0003.html.md",
-    "books/医学伦理/Contents.md",
-    "books/医学伦理/part0002.html.md",
-    "books/医学伦理/序言.md",
-    "books/医学伦理/第二章 安乐死：有益的医学实践还是谋杀？.md",
-    "read/law/医事法/医事法.md",
-    "read/law/医事法/第二章 医事法的实施.md",
-    "read/law/医事法/第三章 生命诞生之前.md",
-    "read/law/医事法/第一章 起源与变迁.md",
-    "README.md",
-    "books/医学伦理/医学伦理.md",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分4.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分3.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分2.pdf",
-    "Pocket Companion to Guyton and - John E. Hall, PhD.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分9.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分8.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分7.pdf",
-    "Guyton/Pocket Companion to Guyton and - John E. Hall, PhD_部分6.pdf",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch002_3-9_B978044311102000001X.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch001_1-1_B9780443111020000872.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch036_249-260_B9780443111020000318.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Contents.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch029_189-189_B9780443111020000914.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch013_Extended_Fig_10_1.md",
-    "Guyton_Obsidian/OEBPS/xhtml/Ch005_31-31_B9780443111020000884.md",
-    "Guyton_Obsidian/OEBPS/images/9780443113536_FC.jpg",
-    "Guyton_Obsidian/OEBPS/images/T001063tabt0010_1.png",
-    "Guyton_Obsidian/OEBPS/images/T001063tabt0010.png",
-    "Guyton_Obsidian/OEBPS/images/T000859tabt0020.png",
-    "Guyton_Obsidian/OEBPS/images/T00063Xtabt0010.png",
-    "Guyton_Obsidian/OEBPS/images/T000446tabt0010.png",
-    "Guyton_Obsidian/OEBPS/images/T000409tabt0015.png",
-    "Guyton_Obsidian/OEBPS/images/T000409tabt0010.png",
+    "Guyton/读书笔记.md",
+    "Guyton/15th/Pocket Companion to Guyton and - John E. Hall, PhD_部分7.pdf",
+    "Guyton/15th/Pocket Companion to Guyton and - John E. Hall, PhD_部分8.pdf",
+    "Guyton/15th/Pocket Companion to Guyton and - John E. Hall, PhD_部分9.pdf",
+    "Guyton/14th/1.pdf",
+    "Guyton/Guyton_15th/Guyton_部分6.pdf",
+    "Guyton/Guyton_15th/Guyton_部分5.pdf",
+    "Guyton/Guyton_15th/Guyton_部分4.pdf",
+    "Guyton/Guyton_15th/Guyton_部分3.pdf",
+    "books/医学伦理/第一章 医学伦理学何以令人激动？.md",
+    "books/医学伦理/images/00036.jpeg",
+    "attachments/Pasted image 20261005235502.png",
+    "attachments/Pasted image 20260930233643.png",
+    "attachments/Pasted image 20260930233540.png",
+    "attachments/Pasted image 20260928110636.png",
+    "attachments/Pasted image 20260924110603.png",
+    "attachments/Pasted image 20260924110304.png",
     "医学免疫学/医学免疫学概论.canvas",
     "医学免疫学/固有免疫系统的组成(Unfinished).canvas",
-    "生理学/生理学绪论.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
     "免疫学概论.canvas"
